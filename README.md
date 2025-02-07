@@ -1,41 +1,57 @@
 # Cosmetics Data Analysis
 
-## Descrição do Projeto
+## 📌 Descrição do Projeto
 
-Este projeto utiliza dados de cosméticos para realizar análises exploratórias, consultas SQL e visualizações gráficas. O objetivo principal é demonstrar habilidades em SQL, Python e Power BI, aplicando técnicas de análise de dados para extrair insights significativos sobre produtos de skincare.
+Este projeto utiliza dados de cosméticos para realizar análises exploratórias, consultas SQL e visualizações gráficas. O objetivo principal é demonstrar habilidades em **SQL, Python e Power BI**, aplicando técnicas de análise de dados para extrair insights significativos sobre produtos de skincare.
 
-## Funcionalidade do Projeto
+## ⚙️ Funcionalidade do Projeto
 
-- Importação de dados CSV para o PostgreSQL
-- Criação e manipulação de tabelas no banco de dados
-- Execução de consultas SQL para análise:
-  - Produtos mais baratos e mais caros
-  - Filtro por ingredientes específicos
-  - Contagem de produtos por marca e tipo de pele
-  - Cálculo de médias de avaliação (rank) por marca
-- Análise exploratória de dados com Python
-- Visualização de resultados e gráficos no Power BI
+✅ **Importação de dados CSV para o PostgreSQL**  
+✅ **Criação e manipulação de tabelas no banco de dados**  
+✅ **Execução de consultas SQL para análise:**  
+  - Produtos mais baratos e mais caros  
+  - Filtro por ingredientes específicos  
+  - Contagem de produtos por marca e tipo de pele  
+  - Cálculo de médias de avaliação (rank) por marca  
+✅ **Análise exploratória de dados com Python**  
+✅ **Desenvolvimento de dashboard interativo no Power BI**, incluindo:  
+  - Indicadores principais (produto mais caro, produto mais popular, média de preços por marca)  
+  - Gráficos de distribuição de produtos por tipo de pele  
+  - Comparação de preços médios por categoria  
+  - Identificação de produtos com ingredientes específicos  
 
-## Tecnologias usadas no projeto
+## 🛠️ Tecnologias Usadas  
 
-- **SQL (PostgreSQL):** Para armazenamento e consultas de dados
-- **Python:** Para limpeza e preparação de dados
-- **Power BI:** Para visualização de dados e criação de dashboards
+- **SQL (PostgreSQL):** Armazenamento e consultas de dados  
+- **Python:** Limpeza e preparação de dados  
+- **Power BI:** Visualização de dados e criação de dashboards  
 
-## Status do Projeto
+## 📊 Dashboard e Gráficos  
 
-O projeto está em desenvolvimento. As seguintes etapas foram concluídas:
+Abaixo estão alguns prints do **dashboard no Power BI** e de gráficos específicos:  
 
-- Importação de dados para o PostgreSQL
-- Estruturação e organização das tabelas
-- Criação de diversas consultas SQL
+📌 **Dashboard Completo:**  
+![Dashboard Principal](dashboards/img/dashboard_overview.png)  
 
-As próximas etapas incluem:
-- Refinamento da análise exploratória de dados
-- Desenvolvimento do dashboard no Power BI
-- Documentação completa do pipeline
+📌 **Exemplo de Gráfico - Produtos por Tipo de Pele:**  
+![Gráfico Tipo de Pele](dashboards/img/produtos_por_tipo_pele.png)  
 
-## Colaboradores
+## 🚀 Status do Projeto  
+
+O projeto está em desenvolvimento. As seguintes etapas foram concluídas:  
+
+✅ Importação de dados para o PostgreSQL  
+✅ Estruturação e organização das tabelas  
+✅ Criação de diversas consultas SQL  
+✅ Análise exploratória dos dados  
+✅ Desenvolvimento inicial do **dashboard no Power BI**  
+
+📌 **Próximos Passos:**  
+🔹 Refinamento da análise exploratória de dados  
+🔹 Melhorias no layout e interatividade do dashboard  
+🔹 Documentação completa do pipeline  
+
+## 👥 Colaboradores  
 
 <table>
   <tr>
@@ -48,23 +64,16 @@ As próximas etapas incluem:
       </a>
     </td>
   </tr>
-</table>
+</table>    
+
+## 📎 Links Úteis  
+
+🔗 [Repositório no GitHub](https://github.com/dafnirca/Cosmetics-Data-Analysis)  
+📩 Contato: [LinkedIn](www.linkedin.com/in/dafni-rosa-76466a23a)  
 
 ---
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-## Notas Adicionais
-
-Este projeto faz parte do meu portfólio como estudante de Análise e Desenvolvimento de Sistemas, com foco em Ciência de Dados. Feedbacks e sugestões são bem-vindos!
-
----
-
-## Links Úteis
-
-- [Repositório no GitHub](https://github.com/dafnirca/Cosmetics-Data-Analysis)
-- Contato: www.linkedin.com/in/dafni-rosa-76466a23a
+### **📢 O que foi atualizado?**  
+- Adicionada **seção do Dashboard no Power BI**  
+- Incluídas **imagens de gráficos** 
+- Atualizados **status do projeto** e **próximos passos**  
